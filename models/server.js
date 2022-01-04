@@ -1,0 +1,10 @@
+
+
+class Server {
+
+    // contructor 
+
+
+
+}
+
